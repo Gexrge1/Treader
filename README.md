@@ -17,4 +17,5 @@ Execute the main.py file via terminal, open your game, specify the area of the t
 - [x] Works
 - [ ] UI
 - [ ] Executable
-- [ ] Language translation support
+- [ ] Language translation
+- [ ] Linux support
